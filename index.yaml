@@ -46,7 +46,7 @@ entries:
     name: ibm-cpq-prod
     urls:
     - https://github.com/Ramchandran/cpqcharts/blob/master/charts/ibm-cpq-prod-4.0.2.tgz
-    version: 4.0.1
+    version: 4.0.2
   - apiVersion: v2
     appVersion: 10.0.0.12
     created: "2020-12-13T22:29:53.553120178-08:00"
