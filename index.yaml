@@ -45,7 +45,7 @@ entries:
     - name: IBM
     name: ibm-cpq-prod
     urls:
-    - https://github.com/Ramchandran/cpqcharts/blob/master/charts/ibm-cpq-prod-4.0.1.tgz
+    - https://raw.githubusercontent.com/Ramchandran/cpqcharts/master/charts/ibm-cpq-prod-4.0.1.tgz
     version: 4.0.1
   - apiVersion: v2
     appVersion: 10.0.0.12
